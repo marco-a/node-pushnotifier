@@ -1,0 +1,17 @@
+{
+  "name": "d3l-pushnotifier",
+  "version": "1.0.0",
+  "description": "PushNotifier for nodejs.",
+  "main": "dist/index.js",
+  "author": "Marco Agnoli",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5"
+  },
+  "scripts": {
+    "build": "./build.sh",
+    "test": "./test.sh"
+  }
+}
