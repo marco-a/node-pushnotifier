@@ -1,7 +1,7 @@
 {
-  "name": "d3l-pushnotifier",
+  "name": "node-pushnotifier",
   "version": "1.0.0",
-  "description": "PushNotifier for nodejs.",
+  "description": "PushNotifier SDK for nodejs.",
   "main": "dist/index.js",
   "author": "Marco Agnoli",
   "license": "MIT",

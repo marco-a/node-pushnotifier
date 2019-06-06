@@ -1,6 +1,6 @@
-# d3l-pushnotifier
+# node-pushnotifier
 
-A small library to utilize pushnotifier's api in nodejs.
+A library to utilize pushnotifier's API in nodejs.
 
 ## Getting started
 
@@ -18,7 +18,7 @@ There are two ways to instantiate the library:
 Instantiation goes as follow:
 
 ```javascript
-import PushNotifier from "d3l-pushnotifier"
+import PushNotifier from "node-pushnotifier"
 
 const instance = new PushNotifier({
 	"api_token": "YOUR_API_TOKEN",
