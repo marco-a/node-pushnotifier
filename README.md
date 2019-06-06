@@ -1,6 +1,6 @@
 # node-pushnotifier
 
-A library to utilize pushnotifier's API in nodejs.
+A library to utilize pushnotifier's **V2** API in nodejs.
 
 ## Getting started
 
